@@ -1,4 +1,5 @@
 <?php
-int x=1;
+int x=0;
+a=1;
 echo "hello vicLily!";
 ?>
